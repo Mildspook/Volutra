@@ -1,8 +1,8 @@
 # MSCS License (Mild_spook Closed Source)
 
-### For: [Your Project Name]
+### For: Volutra.
 
-Copyright (c) [YEAR OF FIRST RELEASE] to present, Mild_spook. All rights reserved.
+Copyright (c) 2026. to present, Mild_spook. All rights reserved.
 
 This is closed-source, proprietary software. This license grants only the
 specific, limited rights described below. All rights not expressly granted
@@ -70,10 +70,10 @@ your rights under this license until the violation is cured.
 ## 6. Governing Law
 
 This license shall be governed by and interpreted in accordance with
-the laws of [YOUR COUNTRY/STATE], without regard to its conflict of
+the laws of Netherlands, without regard to its conflict of
 law principles. Any dispute arising from this license or the Software
 shall be subject to the exclusive jurisdiction of the courts located
-in [YOUR COUNTRY/STATE].
+in Netherlands.
 
 ---
 
