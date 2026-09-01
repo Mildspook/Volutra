@@ -72,8 +72,7 @@ chmod +x Volutra-*.AppImage
 ```
 
 Raw AppImages don't register their own icon with your file manager or app
-menu that's normal Linux behavior, not a Volutra bug. Run the bundled
-`install-linux.sh` once, or use [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+menu that's normal Linux behavior, not a Volutra bug. If wanted use [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
 / [Gear Lever](https://github.com/mijorus/gearlever), to fix that permanently.
 
 <br>
