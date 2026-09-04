@@ -43,10 +43,11 @@ this isn't ready for you yet.
 **A CANable Pro is required** Volutra has no other way to reach the bike's
 CAN bus.
 
-- [CANable Pro](https://nl.aliexpress.com/item/1005006331757235.html) and a USB-C cable
+- [CANable Pro](https://nl.aliexpress.com/item/1005006331757235.html) make sure it is the STM32F072 and a USB-C cable
 - [CAN bus connectors](https://nl.aliexpress.com/item/1005005307670708.html?gatewayAdapt=pol2nld) to wire into the Bafang system
 - [Node.js](https://nodejs.org) installed  check with `node --version` and `npm --version`
 - The latest [Volutra release](https://github.com/Mildspook/Volutra/releases) for your OS
+- The Correct [Firmware]() Flashed to your canable pro
 
 <br>
 
