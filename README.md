@@ -47,7 +47,7 @@ CAN bus.
 - [CAN bus connectors](https://nl.aliexpress.com/item/1005005307670708.html?gatewayAdapt=pol2nld) to wire into the Bafang system
 - [Node.js](https://nodejs.org) installed  check with `node --version` and `npm --version`
 - The latest [Volutra release](https://github.com/Mildspook/Volutra/releases) for your OS
-- The Correct [Firmware]() Flashed to your canable pro
+- The Correct [Firmware](https://github.com/Mildspook/Volutra/blob/main/Volutra_fw.bin) Flashed to your canable pro
 
 <br>
 
