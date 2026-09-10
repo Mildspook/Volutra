@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" height="120" alt="Volutra icon" src="https://github.com/user-attachments/assets/73819479-7c16-4ad4-885f-96067c069d71" />
+<img width="120" height="120" alt="Volutra icon" src="https://github.com/user-attachments/assets/06fb1dae-5d97-4c1e-b3e6-dac7ccd40b4e" />
 
 # Volutra
 
