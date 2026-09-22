@@ -15,7 +15,7 @@ Bafang e-bike programming and configuration, over CAN bus.
 Volutra talks directly to Bafang mid-drive systems over their CAN bus,
 using a CANable Pro as the bridge between your computer and the bike. Read
 live telemetry, tune controller parameters, and manage firmware  without
-Bafang's official tooling.
+Bafang's official tooling. the mobile version is work in progress
 
 <br>
 
